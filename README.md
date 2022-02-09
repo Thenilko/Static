@@ -1,0 +1,2 @@
+# Static
+FFW static site
