@@ -1,5 +1,5 @@
 #!/usr/bin
-source ./.env
+source ../.env
 git remote set-url origin https://$accessToken@github.com/Thenilko/Static.git
 git status
 git add .
